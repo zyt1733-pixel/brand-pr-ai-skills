@@ -1,0 +1,4 @@
+interface:
+  display_name: "舆情危机案例分析复盘"
+  short_description: "核验舆情危机事实，建立证据台账并完成可追溯的案例复盘"
+  default_prompt: "使用 $crisis-case-analysis-review 还原并复盘一个舆情危机案例，严格区分事实、主张、观点与推断。"
