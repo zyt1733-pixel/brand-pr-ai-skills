@@ -1,0 +1,4 @@
+interface:
+  display_name: "舆情危机回应口径"
+  short_description: "起草分阶段、可核查且具备行动闭环的舆情危机对外回应口径"
+  default_prompt: "Use $draft-crisis-response to draft a fact-based external response and media Q&A for this issue."
