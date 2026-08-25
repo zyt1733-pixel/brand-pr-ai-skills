@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weibo Complaint Assistant"
+  short_description: "分析微博内容，生成投诉路径、可粘贴理由和正式企业投诉函"
+  default_prompt: "使用 $weibo-complaint-assistant 分析这条微博并生成可提交的投诉函与操作指引。"
