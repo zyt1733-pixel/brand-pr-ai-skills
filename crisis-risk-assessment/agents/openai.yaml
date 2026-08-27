@@ -1,0 +1,7 @@
+interface:
+  display_name: "智猫舆情危机风险评估"
+  short_description: "用八维模型完成舆情危机研判、定级、升级条件与决策报告"
+  default_prompt: "Use $crisis-risk-assessment to assess this public-opinion crisis with the eight-dimension model and produce a decision-ready risk report."
+
+policy:
+  allow_implicit_invocation: true
